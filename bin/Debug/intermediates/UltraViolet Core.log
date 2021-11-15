@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Code\Breakdown Toolkit\UVCPP\UltraViolet\UltraViolet Core\src\maths\maths_func.h(9,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  mat4.cpp
+D:\Code\Breakdown Toolkit\UVCPP\UltraViolet\UltraViolet Core\src\maths\maths_func.h(9,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Code\Breakdown Toolkit\UVCPP\UltraViolet\UltraViolet Core\src\maths\mat4.cpp(65,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  UltraViolet Core.vcxproj -> D:\Code\Breakdown Toolkit\UVCPP\UltraViolet\bin\Debug\UltraViolet Core.exe
